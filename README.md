@@ -1,7 +1,7 @@
 ## PunyLogger
 A small logger utility can be use to log and prettify the output.
 
-## Installation (not published yet
+## Installation (not published yet)
 Using npm
 `$ npm install punylogger`
 
